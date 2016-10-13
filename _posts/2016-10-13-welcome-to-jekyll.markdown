@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 subtitle: "It's always a bit messy"
-author: "Wferr"
+author: "amn"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2016-10-13 21:48:54 +0530
