@@ -1,5 +1,6 @@
 # top level stuff you probably don't need to touch
-highlighter: pygments
+# highlighter: pygments
+highlighter: rouge
 # markdown: rdiscount
 # rdiscount:
 #   extensions: [smart]
