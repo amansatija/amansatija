@@ -1,2 +1,1 @@
-# amn-blog-general
-My Ramblings 
+# amn's personal website ...!!
