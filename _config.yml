@@ -1,6 +1,6 @@
 # main text of home
 name: Aman Satija
-bio: I consider my self a writer who writes computer programs for a profession, I love All things computer.I am good at creating systems, in and out side the coding world . I believe systems are the frameworks for "GTD" getting any thing done period. Systems should be flexible enough to accommodate all failures and unforeseeable circumstances . I believe in minimalistic approach not just to work but in life in general
+bio: I consider my self a writer who writes code for a living, I love All things computer.I am good at creating systems, in and out side the coding world . I believe systems are the frameworks for "GTD" getting any thing done period. Systems should be flexible enough to accommodate all failures and unforeseeable circumstances . I believe in minimalistic approach not just to work but in life in general
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -10,7 +10,8 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://koppl.in/indigo
+url: https://amansatija.com
+#url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -29,26 +30,26 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: satija.aman
+twitter: amansatija
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 youtube: myyoutube
 spotify: myspotify
-github: mygithub
-stackoverflow: 7044681/mystackoverflow
+github: amansatija
+stackoverflow: 1999362/aman-satija
 quora: userquora
 reddit: username
 medium: medium
 vimeo: myvimeo
-email: myemail@gmail.com
+email: satija.aman@gmail.com
 
 authors:
     amansatija:
         name: Aman Satija
-        bio: A Man who travels the world eating noodles
+        bio: A Writer who writes code for a living
         external-image: false
         picture: assets/images/profile.jpg
         twitter: amansatija
