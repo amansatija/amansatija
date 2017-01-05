@@ -72,6 +72,9 @@ width: normal
 # if you don't need projects, comment the *projects* configs below
 projects: false
 
+# if you don't need resume, comment the *resume* configs below
+resume: true
+
 # if you don't need "about" or "blog", comment them out below
 about: false
 blog: false
