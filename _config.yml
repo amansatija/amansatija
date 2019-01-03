@@ -16,7 +16,7 @@
 title: Aman Satija
 email: satija.aman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Aman satija web addresss
+  Aman satija web address
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://amansatija.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amansatija
@@ -39,4 +39,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
->>>>>>> material_design_profile_card
