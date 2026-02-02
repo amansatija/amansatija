@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /resume/
+Disallow: /resume/Aman_Satija_Resume.pdf
